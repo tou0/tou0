@@ -54,7 +54,7 @@ def build_block(data):
         "```\n"
         f"score        : {score}\n"
         f"rank         : {rank}\n"
-        "last sync    : auto (via GitHub Actions)\n"
+        "last sync    : auto\n"
         "```\n"
         f"{END_MARKER}"
     )
