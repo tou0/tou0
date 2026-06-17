@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-┌────────────────────────────┐<br>
- status: zzzz                 <br>
- shell: bash                  <br>
-  uid: 70u                    <br>
-└────────────────────────────┘<br>
+┌─────────────────────┐<br>
+ status: zzzz          <br>
+ shell: bash           <br>
+  uid: 70u             <br>
+└─────────────────────┘<br>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&duration=4000&pause=1000&color=A5CA9F&center=true&vCenter=true&width=435&lines=bleh+bleh+piracy+hacking+skid" alt="typing-svg" />
