@@ -51,8 +51,9 @@ Here are some ideas to get you started:
 <!-- ROOTME:START -->
 ```
 score        : 2725
-rank         : insider
-challenges   : --
+rank         : 4250
+challenges   : 0
+
 last sync    : auto (via GitHub Actions)
 ```
 <!-- ROOTME:END -->
