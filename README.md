@@ -58,14 +58,12 @@ Here are some ideas to get you started:
 [ 0x04 ] :: ctf
 
 <!-- ROOTME:START -->
-score        : --
-
-rank         : --
-
+```
+score        : 2725
+rank         : insider
 challenges   : --
-
-last sync    : never (run the workflow once)
-
+last sync    : auto (via GitHub Actions)
+```
 <!-- ROOTME:END -->
 
 </div>
