@@ -48,25 +48,7 @@ def fetch_profile():
 def build_block(data):
     score = data.get("score", "--")
     rank = data.get("position", "--")
-    
-    challenges_list = data.get("challenges", [])
-    nb_challenges = len(challenges_list) if isinstance(challenges_list, list) else "--"
-
-    recent_challenges_text = ""
-    if isinstance(challenges_list, list) and nb_challenges != "--" and nb_challenges > 0:
-        recent_challenges_text = "\n[ Dernières validations ]\n"
-        
-        latest = list(reversed(challenges_list))[:5]
-        
-        for c in latest:
-            url = c.get("url_challenge", "")
-            if url:
-                parts = url.rstrip("/").split("/")
-                if len(parts) >= 2:
-                    category = parts[-2].replace("-", " ")
-                    name = parts[-1].replace("-", " ")
-                    recent_challenges_text += f" + {category} : {name}\n"
-
+  
     return (
         f"{START_MARKER}\n"
         "```\n"
