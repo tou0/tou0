@@ -53,5 +53,13 @@ Here are some ideas to get you started:
 </div>
 <br>
 [ 0x04 ] :: ctf
+
+<!-- ROOTME:START -->
+score        : --
+rank         : --
+challenges   : --
+last sync    : never (run the workflow once)
+
+<!-- ROOTME:END -->
 <br>
 [ 0x05 ] :: contact
