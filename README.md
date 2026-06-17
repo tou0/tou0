@@ -53,8 +53,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<div align="center">
-
 [ 0x04 ] :: ctf
 
 <!-- ROOTME:START -->
@@ -66,7 +64,6 @@ last sync    : auto (via GitHub Actions)
 ```
 <!-- ROOTME:END -->
 
-</div>
-
 <br>
+
 [ 0x05 ] :: contact
