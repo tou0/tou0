@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 <div align="center">
   
 ┌──────────────────────────────────────────────────────────┐<br>
- /usr/bin/whoami                                            <br>
- status: online                                             <br>
+ status: zzzz                                               <br>
  shell: bash                                                <br>
-  uid: 0x1337                                               <br>
+  uid: 70u                                                  <br>
 └──────────────────────────────────────────────────────────┘<br>
 
 
@@ -27,33 +26,27 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
-[ 0x00 ] :: identity
+<h2>[ 0x00 ] :: identity</h2>
 <br>
-</div>
-<div align="center">
-[ 0x01 ] :: tools
-<br>
-</div>
 
-<div align="center">
-[ 0x02 ] :: write-ups
+<h2>[ 0x01 ] :: tools</h2>
 <br>
-</div>
 
+<h2>[ 0x02 ] :: write-ups</h2>
+<br>
+
+<h2>[ 0x03 ] :: stats</h2>
+<br>
 <div align="center">
-[ 0x03 ] :: stats
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=tou0&show_icons=true&theme=react&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false" width="38%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tou0&layout=compact&theme=react&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false" width="38%" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tou0&theme=react&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14" width="38%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tou0&theme=react&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border=39FF14" width="33%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tou0&show_icons=true&theme=react&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false" width="31%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tou0&layout=compact&theme=react&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false" width="28%" />
 <br>
 </div>
 <br>
 
-[ 0x04 ] :: ctf
+<h2>[ 0x04 ] :: ctfs</h2>
+<h3><a href="https://www.root-me.org/tou">Root-Me</a></h3>
 
 <!-- ROOTME:START -->
 ```
@@ -66,4 +59,4 @@ last sync    : auto (via GitHub Actions)
 
 <br>
 
-[ 0x05 ] :: contact
+<h2>[ 0x05 ] :: contact</h2>
