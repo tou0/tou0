@@ -46,7 +46,7 @@ philosophy  : information wants to be free
 ```
 score        : 2725
 rank         : 4250
-last sync    : auto (via GitHub Actions)
+last sync    : auto
 ```
 <!-- ROOTME:END -->
 
