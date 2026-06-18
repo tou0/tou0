@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <h2>[ 0x03 ] :: stats</h2>
 <br>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tou0&theme=transparent&short_numbers=true&mode=weekly&border=52644F&stroke=5A6E57&ring=A5CA9F&fire=4D5F4B&currStreakNum=4D5F4B&sideNums=4D5F4B&currStreakLabel=5A6E57&sideLabels=5A6E57&dates=A5CA9F&excludeDaysLabel=A5CA9F" alt="GitHub Streak" width="33%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=tou0&show_icons=true&theme=react&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false" width="31%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tou0&layout=compact&theme=react&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false" width="28%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tou0&theme=transparent&short_numbers=true&mode=weekly&border=52644F&stroke=5A6E57&ring=A5CA9F&fire=4D5F4B&currStreakNum=4D5F4B&sideNums=4D5F4B&currStreakLabel=5A6E57&sideLabels=5A6E57&dates=A5CA9F&excludeDaysLabel=A5CA9F" width="33%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tou0&show_icons=true&theme=transparent&hide_border=false&border_color=52644F&title_color=5A6E57&icon_color=A5CA9F&text_color=4D5F4B" width="31%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tou0&layout=compact&theme=transparent&hide_border=false&border_color=52644F&title_color=5A6E57&text_color=4D5F4B" width="28%" />
 <br>
 </div>
 <br>
