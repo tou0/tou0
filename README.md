@@ -29,6 +29,15 @@ Here are some ideas to get you started:
 <h2>[ 0x00 ] :: identity</h2>
 <br>
 
+```
+$ cat identity.txt
+based_in    : eu
+role        : cloud intern
+interests   : reverse engineering, network, low-level
+currently   : learning things
+philosophy  : information wants to be free
+```
+
 <h2>[ 0x01 ] :: tools</h2>
 <br>
 
