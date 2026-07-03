@@ -33,7 +33,8 @@ philosophy  : information wants to be free
 <br>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tou0&theme=transparent&short_numbers=true&mode=weekly&border=52644F&stroke=5A6E57&ring=A5CA9F&fire=4D5F4B&currStreakNum=4D5F4B&sideNums=4D5F4B&currStreakLabel=5A6E57&sideLabels=5A6E57&dates=A5CA9F&excludeDaysLabel=A5CA9F" height="100"/>
-<img src="https://github-readme-stats.vercel.app/api?username=tou0&show_icons=true&theme=transparent&hide_border=false&border_color=52644F&title_color=5A6E57&icon_color=A5CA9F&text_color=4D5F4B" height="100" />
+
+  ts dead 4 now --> <img src="https://github-readme-stats.vercel.app/api?username=tou0&show_icons=true&theme=transparent&hide_border=false&border_color=52644F&title_color=5A6E57&icon_color=A5CA9F&text_color=4D5F4B" height="100" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tou0&layout=compact&theme=transparent&hide_border=false&border_color=52644F&title_color=5A6E57&text_color=4D5F4B" height="100" />
 <br>
 </div>
